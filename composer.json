@@ -1,5 +1,5 @@
 {
-    "name": "codeq/unicodenormalizer",
+    "name": "codeq/image-optimizer-bin",
     "description": "All necessary binaries to run the ImageOptimizer for Neos",
     "type": "neos-package"
 }
